@@ -20,3 +20,7 @@ strong, h2 {
 body {
     font-family: "Roboto", sans-serif;
 }
+
+.text-white {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
